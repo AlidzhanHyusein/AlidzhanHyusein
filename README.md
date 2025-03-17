@@ -33,6 +33,3 @@ Hello! I'm a student at **New Bulgarian University (NBU)**, where I'm learning *
 
 📧 Email: alidzanhasan9@gmail.com
 🔗 GitHub: https://github.com/AlidzhanHyusein
----
-
-Feel free to explore my projects or reach out if you're also studying at **NBU** or **SoftUni**! 🚀  
