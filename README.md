@@ -1,15 +1,34 @@
-# Project Name
+## Hi there, I'm Alidzhan
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Issues](https://img.shields.io/github/issues/your-username/your-repo)
-![Stars](https://img.shields.io/github/stars/your-username/your-repo)
+![Languages](https://img.shields.io/badge/C++-Python-blue)
+![Status](https://img.shields.io/badge/learning-in_progress-green)
 
-## 📌 Description
+## 📚 About Me
 
-A brief description of your project. What does it do? Why did you create it?
+Hello! I'm a student at **New Bulgarian University (NBU)**, where I'm learning **C++**, and I'm also studying **Python** at **SoftUni**. This repository contains my projects, exercises, and notes from my learning journey.
 
-## 🚀 Features
+## 📌 Repository Structure
 
-- Feature 1
-- Feature 2
-- Feature 3
+- 📂 `cpp/` – C++ projects & university coursework (NBU)  
+- 📂 `python/` – Python exercises & projects (SoftUni)  
+- 📂 `notes/` – Study notes & reference materials  
+
+## 🚀 Technologies & Tools
+
+- **Languages:** C++, Python  
+- **IDEs:** VS Code, PyCharm, CLion  
+- **Version Control:** Git & GitHub  
+
+## 🎯 Learning Goals
+
+- Deepen my understanding of C++ concepts at university  
+- Improve Python skills through practical projects  
+- Solve algorithmic challenges and real-world problems  
+
+## 🤝 Connect
+
+📧 Email: alidzanhasan9@gmail.com
+🔗 GitHub: https://github.com/AlidzhanHyusein
+---
+
+Feel free to explore my projects or reach out if you're also studying at **NBU** or **SoftUni**! 🚀  
