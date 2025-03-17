@@ -34,7 +34,7 @@ Hello! I'm a student at **New Bulgarian University (NBU)**, where I'm learning *
  Email: alidzanhasan9@gmail.com
  GitHub: https://github.com/AlidzhanHyusein
 
-## My Socials
+## 🌐 My Socials
 
  <div align="left">
   <a href="https://www.linkedin.com/in/alidzhan-hyusein-6aa03b262/" target="_blank">
