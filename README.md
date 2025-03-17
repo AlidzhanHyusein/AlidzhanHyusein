@@ -45,7 +45,7 @@ Hello! I'm a student at **New Bulgarian University (NBU)**, where I'm learning *
   </a>
 </div>
 
-## </> Languages and Tools I know:
+## 👨🏻‍💻 Languages and Tools I know:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
