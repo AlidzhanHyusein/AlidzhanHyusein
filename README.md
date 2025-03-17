@@ -1,4 +1,4 @@
-## Hi there, I'm Alidzhan
+## Hi there, I'm Alidzhan 👋
 
 ![Languages](https://img.shields.io/badge/C++-Python-blue)
 ![Status](https://img.shields.io/badge/learning-in_progress-green)
