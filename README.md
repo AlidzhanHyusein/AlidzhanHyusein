@@ -8,9 +8,9 @@
 📂 notes/ – Study notes & reference materials<br>
 
 ## 🚀 Technologies & Tools
--Languages: C++, Python
--IDEs: VS Code, PyCharm, CLion
--Version Control: Git & GitHub
+-**Languages**: C++, Python
+-**IDEs**: VS Code, PyCharm, CLion
+-**Version Control**: Git & GitHub
 
 ## 🎯 Learning Goals
 -Master OOP concepts in C++ & Python
