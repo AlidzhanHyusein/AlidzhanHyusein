@@ -21,9 +21,13 @@ Hello! I'm a student at **New Bulgarian University (NBU)**, where I'm learning *
 
 ## 🎯 Learning Goals
 
-- Deepen my understanding of C++ concepts at university  
-- Improve Python skills through practical projects  
-- Solve algorithmic challenges and real-world problems  
+- Master OOP concepts in C++ & Python  
+- Work on algorithms and problem-solving  
+- Build real-world applications
+
+## ⚡ Fun Facts
+- Love Playing Chess
+- Solving Rubik Cube
 
 ## 🤝 Connect
 
