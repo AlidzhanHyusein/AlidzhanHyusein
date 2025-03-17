@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">## Hi there, I'm Alidzhan :wave:</div>  
+### <div align="center"> Hi there, I'm Alidzhan :wave:</div>  
   
 
 - ## :books: About Me
