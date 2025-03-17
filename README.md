@@ -1,27 +1,33 @@
-##💫 About Me:
+## :books: About Me
 
-## 📚 About Me<br>Hello! I'm a student at New Bulgarian University (NBU), where I'm learning C++, and I'm also studying Python at SoftUni. This repository contains my projects, exercises, and notes from my learning journey.<br><br>
+Hello! I'm a student at **New Bulgarian University (NBU)**, where I'm learning **C++**, and I'm also studying **Python** at **SoftUni**. This repository contains my projects, exercises, and notes from my learning journey.
 
-## 📌 Repository Structure<br>
-📂 cpp/ – C++ projects & university coursework (NBU)<br>
-📂 python/ – Python exercises & projects (SoftUni)<br>
-📂 notes/ – Study notes & reference materials<br>
+## :pushpin: Repository Structure
 
-## 🚀 Technologies & Tools
--**Languages**: C++, Python
--**IDEs**: VS Code, PyCharm, CLion
--**Version Control**: Git & GitHub
+- :open_file_folder: `cpp/` – C++ projects & university coursework (NBU)  
+- :open_file_folder: `python/` – Python exercises & projects (SoftUni)  
+- :open_file_folder: `notes/` – Study notes & reference materials  
 
-## 🎯 Learning Goals
--Master OOP concepts in C++ & Python
--Work on algorithms and problem-solving
--Build real-world applications
+## :rocket: Technologies & Tools
 
-## ⚡ Fun Facts About Me
--Love Playing Chess
--Solving Rubik Cube
+- **Languages:** C++, Python  
+- **IDEs:** VS Code, PyCharm, CLion  
+- **Version Control:** Git & GitHub  
 
-## 🤝 Connect<br>Email: alidzanhasan9@gmail.com GitHub: https://github.com/AlidzhanHyusein
+## :dart: Learning Goals
+
+- Master OOP concepts in C++ & Python  
+- Work on algorithms and problem-solving  
+- Build real-world applications
+
+## :zap: Fun Facts
+- Love Playing Chess
+- Solving Rubik Cube
+
+## :handshake: Connect
+
+ Email: alidzanhasan9@gmail.com
+ GitHub: https://github.com/AlidzhanHyusein
 
 
 ## 🌐 Socials:
