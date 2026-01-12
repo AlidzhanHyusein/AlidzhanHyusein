@@ -15,13 +15,13 @@ Hello! I'm a student at **New Bulgarian University (NBU)**, where I'm learning *
 
 ## :rocket: Technologies & Tools
 
-- **Languages:** C++, Python  
-- **IDEs:** VS Code, PyCharm, CLion  
+- **Languages:** C++, Python , Java
+- **IDEs:** VS Code, PyCharm, CLion , IntellijJ IDEA 
 - **Version Control:** Git & GitHub  
 
 ## :dart: Learning Goals
 
-- Master OOP concepts in C++ & Python  
+- Master OOP concepts in Java & Python  
 - Work on algorithms and problem-solving  
 - Build real-world applications
 
