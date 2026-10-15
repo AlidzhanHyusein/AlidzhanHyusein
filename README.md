@@ -1,39 +1,48 @@
-## Hi there, I'm Alidzhan :wave:
+# Hey, I'm Alidzhan Hyusein 👋
 
-![Languages](https://img.shields.io/badge/C++-Python-blue)
-![Status](https://img.shields.io/badge/learning-in_progress-green)
+🎓 **Computer Science Student at New Bulgarian University**  
+💻 **Software Engineer | Backend & Distributed Systems Enthusiast**  
+📍 Sofia, Bulgaria
 
-## :books: About Me
+I'm a third-year Computer Science student passionate about building scalable backend systems, distributed applications, and reliable software. I enjoy working with Java and Spring Boot, designing microservices, and solving real-world engineering problems through clean architecture and thoughtful system design.
 
-Hello! I'm a student at **New Bulgarian University (NBU)**, where I'm learning **C++**, and I'm also studying **Python** at **SoftUni**. This repository contains my projects, exercises, and notes from my learning journey.
+I've gained industry experience as a **Software Engineer Intern at DraftKings**, where I shipped production features, improved shared component libraries, wrote automated tests, and collaborated on cross-team releases.
 
-## :pushpin: Repository Structure
+### 🚀 What I Work With
 
-- :open_file_folder: `cpp/` – C++ projects & university coursework (NBU)  
-- :open_file_folder: `python/` – Python exercises & projects (SoftUni)  
-- :open_file_folder: `notes/` – Study notes & reference materials  
+- **Languages:** Java, TypeScript, JavaScript, SQL
+- **Backend:** Spring Boot, Spring Security, Spring Data JPA, Spring Cloud Gateway
+- **Distributed Systems:** Microservices, Apache Kafka, Redis, WebSockets
+- **Databases:** PostgreSQL, MySQL
+- **Security:** JWT, OAuth2/OIDC, Keycloak
+- **Tools:** Docker, Git, Maven, Flyway, Swagger/OpenAPI
+- **Frontend:** React, MobX
 
-## :rocket: Technologies & Tools
+### 🛠️ Featured Projects
 
-- **Languages:** C++, Python , Java
-- **IDEs:** VS Code, PyCharm, CLion , IntellijJ IDEA 
-- **Version Control:** Git & GitHub  
+- **Trading Simulator** — A crypto trading platform built with Spring Boot microservices, Kafka, PostgreSQL, and Redis, featuring transactional event publishing and portfolio management.
+- **Ticket Platform** — A distributed ticketing system with API gateway security, Keycloak authentication, resilient service communication, and asynchronous Kafka processing.
+- **Breaddy** — A student job marketplace where I led the backend team, integrating payment processing, real-time messaging, and AI-powered features. 🥉 *3rd Place — StartUp Challenge NBU 2026.*
+- **DocumentQA** — A document-based question-answering API using Spring Boot, PostgreSQL, PDFBox, and the OpenAI API.
 
-## :dart: Learning Goals
+### 🏆 Achievements
 
-- Master OOP concepts in Java & Python  
-- Work on algorithms and problem-solving  
-- Build real-world applications
+- 🥇 **1st Place — Hack Smart Sofia 2026 (ERUA)**
+- 🥉 **3rd Place — StartUp Challenge NBU 2026**
+- 💼 **Software Engineer Intern — DraftKings (Summer 2026)**
 
-## :zap: Fun Facts
-- Love Playing Chess
-- Solving Rubik Cube
+### 🌱 Currently Interested In
 
-## :handshake: Connect
+- Designing scalable and fault-tolerant backend architectures
+- Distributed systems and event-driven communication
+- Database design, transaction management, and data consistency
+- Building secure, production-ready applications
 
- Email: alidzanhasan9@gmail.com
- GitHub: https://github.com/AlidzhanHyusein
+### 🌍 Languages
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🇧🇬 Bulgarian (Native) · Turkish (Native) · English (C1)
+
+---
+
+💬 **Always open to learning, collaborating, and building something meaningful.**
 
